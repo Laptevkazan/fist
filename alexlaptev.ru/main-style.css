@@ -1,0 +1,28 @@
+body{
+ background: url(img/moto-fon-site.jpg) no-repeat;
+ font-size: 20px;
+}
+
+.container{
+  margin-left: 50px;
+  margin-top: 100px;
+  
+}
+
+
+.header {
+  font-family: tahoma;
+
+}
+
+.address{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.button {
+    color: black;
+   
+} 
+.button:hover { background: gray;
+}
